@@ -53,5 +53,8 @@ Method: PUT
 
 ![Screenshots](screenshots/)
 
+## Demo Video
+
+Click to watch: [demo.mp4](demo.mp4)
 
 
