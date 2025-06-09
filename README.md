@@ -51,7 +51,7 @@ Method: DELETE
 URL: http://localhost:8080/tasks/execute/123
 Method: PUT
 
-![Create Task](screenshots/)
+![Screenshots](screenshots/)
 
 
 
