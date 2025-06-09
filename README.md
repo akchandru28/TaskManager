@@ -20,7 +20,7 @@ This is the solution for Task 1 given by Kaiburr. I have created a Java Spring B
 1. Make sure MongoDB is running on your system. I'm using MongoDB 8 locally.
 2. Clone this repo or download the code.
 3. Open the project in VS Code.
-4. Run the command:mvn spring-boot:run
+4. Run the command- mvn clean install and then mvn spring-boot:run
 
 # Endpoints and Example
 # 1.Create Task
